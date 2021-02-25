@@ -1,1 +1,1 @@
-# Azure DevOps App1 Demo with AKS, Github and ACR
+# pradsingh-github-azure-devops-github-acr-aks-app1-demo
